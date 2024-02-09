@@ -1,0 +1,6 @@
+packer-plugin-vmware: copyright-without-copyright-notice
+packer-plugin-vmware: initial-upload-closes-no-bugs
+packer-plugin-vmware: no-manual-page
+packer-plugin-vmware: shared-library-lacks-prerequisites
+packer-plugin-vmware: statically-linked-binary
+packer-plugin-vmware: zero-byte-file-in-doc-directory
